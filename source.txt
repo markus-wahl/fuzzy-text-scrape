@@ -1,0 +1,108 @@
+                                                                                                                                                                       Sida 1
+                                                                                             Faktura Fjärrvärme
+                                                                                                           Fakturanummer                 10003534
+                                                                                                           Fakturadatum                  2018 12 06
+                                                                                                           Kundnummer                    5239582
+                                                                                                           Avtalskonto                   82935235
+                                                                                                           Er referens                   ABC 23425
+                                 Adven Energilösningar AB
+                                 Gamla Rådstugugatan 30
+                                 602 24 Norrköping
+                                                                                                           ******** **
+                                                                                                           **********, *******
+                                                                                                           234 43 ***
+
+
+                                 Kundservice vardagar, 08.00 - 16.30
+                                 Tel 010-*** ** **
+                                 Felanmälan 010-455 08 80
+
+                                 E-Post kundservice@adven.com
+                                 Kundportal adven.se
+
+                                 Bankgiro 5262-9151
+                                 IBAN-kod SE05 5000 0000 0526 7114 9654
+                                 SWIFT-kod ESSESESS
+                                 Momsreg.nr/F-skatt SE559087574501
+
+
+
+                                 Anl.nr: 41910608                      Anläggningsadress: Torget 6
+                                 Mätarnr: 113474
+
+
+                                 Fakturaperiod 2018 11 01 - 2018 12 01
+
+                                 Adven Energilösningar AB                                                                                                             20 979,77 kr
+                                 Fjärrvärme
+
+                                 Summa exkl. moms                                                                                                                      16 783,81 kr
+                                 Moms 25 %                                                                                                                              4 195,96 kr
+
+
+
+
+                                                                                                            Oss tillhanda                                           2019 01 06
+
+                                                                                                            Belopp att betala                                      20 979,77 kr
+BG 130 OCR spec 29204 aug 07
+
+
+
+
+                                                                                                            INBETALNING/GIRERING                      AVI
+
+                                                                                                                                                                   OCR
+                                                                                                                              Inbet.avgift (ifylls av banken)
+                                    Med denna avi kan du betala på alla bankkontor eller via
+                                    * Bankgiro            * Personkonto
+                                    * Privatgiro          * Balanskonto
+                                                          * Internetbank
+                                    Vid betalning på annat sätt än med denna avi
+                                    skall du ange nedanstående Referensnr.
+                                    Betalningsavsändare
+                                                                                                            
+                                    Oss tillhanda:                  6 jan 2019                              *******
+                                                                                                            
+                                    Vid betalning på annat sätt, var god ange
+                                    OCR-nummer 23423 232
+
+
+                                                                                                            Till bankgironr       Betalningsmottagare
+
+                                                                                                            5262-9151             Adven Energilösningar AB
+                               VAR GOD GÖR INGA ÄNDRINGAR                        MEDDELANDEN KAN INTE LÄMNAS PÅ AVIN DEN AVLÄSES MASKINELLT
+                                    Referensnr                                      Kronor           öre
+
+
+
+#                                                             1000247450 #                   20979 77           9 >                                             52629151 #41#
+                                                                                                          Sida 2
+                                                     Specifikation
+                                                                  Fakturanummer         10003534
+                                                                  Fakturadatum          2018 12 06
+                                                                  Kundnummer            5239582
+                                                                  Avtalskonto           82935235
+                                                                  Er referens           ABC 23425
+
+
+
+
+                        Datum                           Energi (MWh)                Flöde (m3)
+                                                        Mätarställning              Mätarställning
+Avläst mätarställning   2018 11 01                      8.440                       151.500
+Avläst mätarställning   2018 12 01                      32.360                      555.700
+
+
+
+
+                                     Period                    Användning     à-pris exkl. moms            Summa
+Energipris fjärrvärme                2018 11 01 - 2018 12 01   23920.0 kWh    36.12 öre/kWh            8 639,90 kr
+Effektpris                           2018 11 01 - 2018 12 01   63.7 kW        106.00 kr/kW             6 757,50 kr
+Flödespris                           2018 11 01 - 2018 12 01   404.2 m3       3.43 kr/m3                1 386,41 kr
+
+
+Summa exkl. moms                                                                                       16 783,81 kr
+Moms (25%)                                                                                              4 195,96 kr
+Summa inkl. moms                                                                                      20 979,77 kr
+

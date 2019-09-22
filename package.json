@@ -1,0 +1,26 @@
+{
+  "name": "fuzzy-text-scrape",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest --config jestconfig.json",
+    "build": "tsc",
+    "start": "node lib/scrape/scrape.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markus-wahl/fuzzy-text-scrape.git"
+  },
+  "author": "Markus Wahl",
+  "homepage": "https://github.com/markus-wahl/fuzzy-text-scrape#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.18",
+    "@types/node": "^12.7.4",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.1.0",
+    "typescript": "^3.6.3"
+  },
+  "dependencies": {
+    "js-joda": "^1.11.0",
+    "yargs": "^14.0.0"
+  }
+}

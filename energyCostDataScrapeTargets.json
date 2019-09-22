@@ -1,0 +1,61 @@
+[
+	{
+	  "attributeKeys": [
+	  	"Fakturaperiod",
+	  	"Invoice period"
+	  ],
+	  "type": "WITHOUT_UNIT",
+	  "numberOfValues": 2
+	},
+	{
+	  "attributeKeys": [
+	  	"Anl.nr",
+	  	"Anläggningsnummer",
+	  	"Building id"
+	  ],
+	  "type": "WITHOUT_UNIT"
+	},
+	{
+	  "attributeKeys": [
+	  	"Mätarnr",
+	  	"Mätarnummer",
+	  	"Meternumber"
+	  ],
+	  "type": "WITHOUT_UNIT"
+	},
+	{
+	  "attributeKeys": [
+	  	"Summa exkl. moms",
+	  	"Total cost excluding vat"
+	  ],
+	  "type": "UNIT"
+	},
+	{
+	  "attributeKeys": [
+	  	"Summa inkl. moms",
+	  	"Total cost including vat"
+	  ],
+	  "type": "UNIT"
+	},
+	{
+	  "attributeKeys": [
+	  	"Energipris",
+	  	"Energy price"
+	  ],
+	  "type": "DERIVED_UNIT"
+	},
+	{
+	  "attributeKeys": [
+	  	"Effektpris",
+	  	"Effect price"
+	  ],
+	  "type": "DERIVED_UNIT"
+	},
+	{
+	  "attributeKeys": [
+	  	"Flödespris",
+	  	"Flow price"
+	  ],
+	  "type": "DERIVED_UNIT"
+	}
+]
